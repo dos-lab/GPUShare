@@ -4,9 +4,9 @@ Schedule and Share GPU among Pods in Kubernetes
 
 ### Roadmap
 - [x] GPU isolation and limitation(use Gemini by KubeShare for now)
-- [] Device Plugin(gpu-memory, gpu-core) 
-- [] **Scheduler(diffrent scheduling policy)**
-- [] System integration
+- [ ] Device Plugin(gpu-memory, gpu-core) 
+- [ ] **Scheduler(diffrent scheduling policy)**
+- [ ] System integration
 
 
 ### References
